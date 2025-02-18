@@ -36,7 +36,7 @@ Dashboard Development: Create an interactive web app with Streamlit.
 <h2>🚀 How to Run the Project</h2>
 Clone the Repository:
 
-git clone https://github.com/Sindhu27153/rental-order-analysis.git cd rental-order-analysis
+git clone https://github.com/Sindhu27153/rental-order-analysis-MiniProject.git cd rental-order-analysis
 
 <h2>Install Dependencies:</h2>
 pip install -r requirements.txt
